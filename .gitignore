@@ -1,0 +1,5 @@
+node_modules/
+dist/
+node_modules/.vite/
+node_modules/.vite-temp/
+.DS_Store
